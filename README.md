@@ -14,6 +14,8 @@ Represents an application in a legacy project.
 
 - JavaScript
 - Bootstrap
+- Webpack
+- npm
 
 ### Playwright
 
@@ -25,3 +27,5 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 
 - TypeScript
 - Tailwind CSS
+- Vite
+- pnpm
