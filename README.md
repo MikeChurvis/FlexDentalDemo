@@ -29,3 +29,13 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 - Tailwind CSS
 - Vite
 - pnpm
+
+## Checklist
+
+- [x] Create the Ember project.
+- [x] Upload the Ember project repo to GitHub.
+- [ ] Create the React project.
+- [ ] Upload the React project repo to GitHub.
+- [ ] Create a repo for the Playwright tests.
+- [ ] Upload the Playwright repo to GitHub.
+- [ ] Import the Playwright repo into Ember.
