@@ -1,9 +1,11 @@
 # Flex Dental Demo
 
-This is the codebase for my pre-interview demonstration for Flex Dental. On its surface, it's a simple To-Do app. Behind the scenes, it's much more.
+This is the codebase for my pre-interview demonstration for Flex Dental. On its surface, it's a simple To-Do app. Behind the scenes, it's a demonstration.
+
+## Parts
 
 There are three parts:
 
-1. An EmberJS version of the app.
-2. A suite of Playwright tests that cover the Ember app's behavior end-to-end.
-3. A React app built against those same exact Playwright tests using TDD.
+1. A To-Do list app written in Ember.
+2. A suite of E2E Playwright tests that cover the Ember app's behavior.
+3. A React app built with TDD against those same exact Playwright tests.
