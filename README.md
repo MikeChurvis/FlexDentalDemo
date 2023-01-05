@@ -40,3 +40,9 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 - [x] Add the e2e test repo as a git submodule to the Playwright test runner.
 - [x] Add Playwright to react project.
 - [x] Add the e2e test repo as a git submodule to the React frontend.
+- [x] Django: Set a custom user auth model. DO NOT PERFORM FIRST MIGRATE UNTIL IT IS IN PLACE.
+- [ ] Django: Setup a docker environment with compose and debug .env.
+- [ ] Django: Add .env to .gitignore
+- [ ] Django: Add .dockerignore
+- [ ] Django: perform first migration.
+- [ ] Push a playwright test from the test runner project into the submodule's remote. Pull it into the React project. Run it successfully.
