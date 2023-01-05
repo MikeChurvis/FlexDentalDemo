@@ -41,8 +41,22 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 - [x] Add Playwright to react project.
 - [x] Add the e2e test repo as a git submodule to the React frontend.
 - [x] Django: Set a custom user auth model. DO NOT PERFORM FIRST MIGRATE UNTIL IT IS IN PLACE.
-- [ ] Django: Setup a docker environment with compose and debug .env.
-- [ ] Django: Add .env to .gitignore
-- [ ] Django: Add .dockerignore
+- [ ] Django: Setup a docker environment with compose.
+- [ ] Django: Add .env to .gitignore.
+- [ ] Django: Add .env to .dockerignore.
+- [ ] Django: Populate sensitive settings from environment variables.
 - [ ] Django: perform first migration.
-- [ ] Push a playwright test from the test runner project into the submodule's remote. Pull it into the React project. Run it successfully.
+- [ ] Tests: Push a playwright test from the test runner project into the submodule's remote. Pull it into the React project. Run it successfully.
+- [ ] Ember: install ember-simple-auth.
+- [ ] Ember: install bootstrap.
+- [ ] Ember: install sass.
+- [ ] Django: create user auth view.
+- [ ] Django: create mock login-required view.
+- [ ] Ember: mock login page.
+- [ ] Ember: setup ember-simple-auth.
+- [ ] Ember: confirm that Ember can authenticate through Django.
+- [ ] Ember: persist auth token in sessionStorage.
+- [ ] React: add Tailwind CSS.
+- [ ] React: add React Router.
+- [ ] React: persist auth token in sessionStorage.
+- [ ] Build both projects into routes of the gh-pages branch.
