@@ -32,10 +32,9 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 
 ## Checklist
 
-- [x] Create the Ember project.
-- [x] Upload the Ember project repo to GitHub.
-- [ ] Create the React project.
-- [ ] Upload the React project repo to GitHub.
+- [x] Scaffold the Ember frontend.
+- [ ] Scaffold the React frontend.
+- [ ] Scaffold the Django backend
 - [ ] Create a repo for the Playwright tests.
 - [ ] Upload the Playwright repo to GitHub.
 - [ ] Import the Playwright repo into Ember.
