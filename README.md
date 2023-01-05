@@ -46,8 +46,11 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 - [x] Django: Add .env to .dockerignore.
 - [x] Django: Populate sensitive settings from environment variables.
 - [x] Django: perform first migration.
-- [ ] Django: create user auth view.
+- [ ] Django: finalize custom user model and migrate.
+- [ ] Django: create superuser.
+- [ ] Django: create user auth views.
 - [ ] Django: create mock login-required view.
+- [ ] Django: add mikechurvis.com/ to CSRF_TRUSTED_ORIGINS
 - [ ] Ember: install ember-simple-auth.
 - [ ] Ember: install bootstrap.
 - [ ] Ember: install sass.
