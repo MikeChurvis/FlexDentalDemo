@@ -1,0 +1,3 @@
+[submodule "todo-testrunner-playwright/e2e"]
+	path = todo-testrunner-playwright/e2e
+	url = https://github.com/mikechurvis/flexdentaldemo-e2etests

@@ -36,8 +36,7 @@ Represents an application in a greenfield project. Uses TDD with the Playwright 
 - [x] Scaffold the React frontend.
 - [x] Scaffold the Django backend.
 - [x] Scaffold the Playwright test runner.
-- [ ] Create a repo for the Playwright tests themselves.
-- [ ] Add the e2e test repo as a git submodule to the Playwright test runner.
+- [x] Create a repo for the Playwright tests themselves.
+- [x] Add the e2e test repo as a git submodule to the Playwright test runner.
+- [ ] Add Playwright to react project.
 - [ ] Add the e2e test repo as a git submodule to the React frontend.
-- [ ] Upload the Playwright repo to GitHub.
-- [ ] Import the Playwright repo into Ember.
